@@ -1,0 +1,8 @@
+Created Contoso Sales Report inn Microsoft PowerBI Desktop.
+Performed ETL(Extract, Transformed, Load) on the data, cleaed the data and applied DAX(Data Analysis Expressions) to create custom measures.
+Visualizations used-
+Bar Chart- BrandName by TotalSales
+Pie Chart- NumProduct by BrandName
+Table- ProductName
+Matrix= BrandName by GrossProfit, BrandName by NetSales, ProductCategory by TotalReturns
+Card- GrossProfit
